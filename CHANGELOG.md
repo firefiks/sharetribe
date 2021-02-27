@@ -1,7 +1,7 @@
 # Change Log
 
 All notable changes to this project will be documented in this file.
-
+gdfgdfgdfgdfgdgfdfgd
 This project adheres to [Semantic Versioning](http://semver.org/) where possible.
 
 This file follows the best practices from [keepachangelog.com](http://keepachangelog.com/).
